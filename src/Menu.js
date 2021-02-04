@@ -3,10 +3,7 @@ import './Menu.css';
 
 function App() {
   return (
-    <div className="Menu">
-      <header className="Menu-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+    <div className="Menu" hidden>
       <ul>
           <li>Our story</li>
           <li>Get in touch</li>
