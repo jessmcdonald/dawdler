@@ -1,6 +1,5 @@
 {
   "name": "dawdler",
-  "homepage": "http://jessmcdonald.github.io/dawdler",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
