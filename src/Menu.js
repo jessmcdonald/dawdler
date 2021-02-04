@@ -1,4 +1,3 @@
-import logo from './dawdler-logo.png';
 import './Menu.css';
 
 function App() {
