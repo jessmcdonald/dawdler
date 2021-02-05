@@ -1,0 +1,21 @@
+@import '../../assets/styles/variables';
+
+.Menu-list {
+    list-style-type: none;
+    width: 20rem;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.Menu-link {
+    color: $blue;
+    transition: 0.4s;
+    font-weight: 600;
+    width: 30%;
+
+    &:hover {
+      color: $turquoise;
+      cursor: pointer;
+    }
+  }
