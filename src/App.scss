@@ -1,0 +1,23 @@
+$pink: #f589a9;
+$peach: #f59281;
+$gold: #f4c100;
+$green: #27ab88;
+$turquoise: #03b5a9;
+$blue: #1361e2;
+$lilac: #DFB0F5;
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  width: 20rem;
+}
+
+.App-link {
+  color: $lilac;
+  transition: 0.4s;
+  &:hover {
+    color: $turquoise;
+  }
+}

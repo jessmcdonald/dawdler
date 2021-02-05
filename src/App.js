@@ -1,5 +1,5 @@
 import logo from './dawdler-logo.png';
-import './App.css';
+import './App.scss';
 import Menu from './Menu';
 
 function App() {
@@ -8,9 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Noun	1.	dawdler - someone who takes more time than necessary
+          Noun.	dawdler - someone who takes more time than necessary
         </p>
       </header>
+      <div></div>
       <Menu></Menu>
     </div>
   );

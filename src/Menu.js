@@ -1,4 +1,3 @@
-import './Menu.css';
 
 function App() {
   return (
