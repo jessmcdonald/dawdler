@@ -9,9 +9,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Menu></Menu>
-        <p>
-          Noun.	dawdler - someone who takes more time than necessary
-        </p>
       </header>
       <div className="Home-Blocky">
         <div className="block1"></div>
